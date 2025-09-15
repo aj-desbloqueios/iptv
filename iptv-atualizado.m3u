@@ -1061,12 +1061,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a4b4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a4b4261ca00083aa99e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-name=""tvg-id="011News.br"tvg-logo=""tvg-chno=""group-title="Brasil: notícias",011 News | Brasil
 https://011news.akamaized.net/011news/011news/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="",
-
+#EXTINF:-1 tvg-name=""tvg-id="BR Globo SP HD"tvg-logo="https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png"tvg-chno=""group-title="Brasil: variedades",BR Globo SP HD
+http://cord-cutter.net:8080/cQnq6G/652882/21020
+#EXTINF:-1 tvg-name=""tvg-id="BR: SBT HD"tvg-logo="https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png"tvg-chno=""group-title="Brasil: variedades",BR: SBT HD
+http://cord-cutter.net:8080/cQnq6G/652882/20978
+#EXTINF:-1 tvg-name=""tvg-id="BR: ESPN"tvg-logo=""tvg-chno=""group-title="Brasil: esportes e e-sports",BR: ESPN
+http://cord-cutter.net:8080/cQnq6G/652882/164948
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="",
 
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""tvg-chno=""group-title="",
